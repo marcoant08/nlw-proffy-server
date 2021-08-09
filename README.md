@@ -4,7 +4,7 @@
  - WEB: https://github.com/marcoant08/nlw-proffy-web
  - MOBILE: https://github.com/marcoant08/nlw-proffy-mobile
 
-#### Para executar este projeto:
+#### Para executar esta aplicação:
  1. `git clone https://github.com/marcoant08/nlw-proffy-server`
  2. `cd nlw-proffy-server`
  3. `npm install`
