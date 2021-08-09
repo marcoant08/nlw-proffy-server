@@ -6,10 +6,10 @@
 
 #### Para executar este projeto:
  1. `git clone https://github.com/marcoant08/nlw-proffy-server`
- 2. `cd nlw-server-proffy`
+ 2. `cd nlw-proffy-server`
  3. `npm install`
  4. `npm run start`
  
- ###### O servidor rodará na porta 3000
+ ###### O servidor rodará na porta 3333
 
 ⚡ @marcoant08
